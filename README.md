@@ -1,2 +1,2 @@
 # cubo3d
- Cubo 3d usando opengl glut
+ Cubo 3d em c usando opengl glut

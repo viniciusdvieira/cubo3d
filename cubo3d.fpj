@@ -17,7 +17,7 @@
 	</VersionInfo>
 	<Libs Value="-mwindows -lOpenGL32 -lopengl32 -lglut32 -lglu32 -lSOIL"/>
 	<Flags Value="-I..\..\..\..\..\..\soil-master\src"/>
-	<Target Value="trabalho-pong.exe"/>
+	<Target Value="cubo3d.exe"/>
 	<CommandLine Value=""/>
 	<CompilerOptions Value="-Wall -s -O2"/>
 	<DeleteObjectsBefore Value="Yes"/>
